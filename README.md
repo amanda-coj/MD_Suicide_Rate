@@ -16,10 +16,9 @@ O conjunto de dados utilizado foi obtido do Kaggle: [Suicide Rates Overview 1985
 
 ## Como Executar
 1. Clone o repositório ou abra o Google Colab.
-2. Instale as dependências necessárias:
-   ```bash
-   pip install kaggle basemap basemap-data-hires
-   ```
+2. Instale a API do Kaggle:
+   (https://www.kaggle.com/settings)
+   Va ate API e crie um novo token, o arquivo kaggle.json será instalado 
 3. Baixe o dataset do Kaggle e extraia os arquivos.
 4. Execute as etapas conforme descrito no notebook.
 
