@@ -1,5 +1,4 @@
-# Predição de Taxas de Suicídio com Machine Learning
-
+# Predição de Taxas de Suicídio 
 ## Descrição do Projeto
 Este projeto utiliza análise de dados e algoritmos de Machine Learning para prever o número de suicídios com base em um conjunto de dados contendo informações globais de 1985 a 2016. O objetivo é explorar diferentes modelos de regressão e avaliar sua eficácia na previsão de casos de suicídio.
 
